@@ -1,8 +1,8 @@
-## Docker Monitoring with Granfana and cAdvisor, influx DB. 
+## Docker Monitoring with Grafana and cAdvisor, influx DB. 
 ## JSON Dashboards
 
 
-Please take a look a the Docker-Monitoring-xx.json file to view the Grafana Dashboard's json file and check out the queries folders for screenshots of the queries in each graph.
+Please take a look at the Docker-Monitoring-xx.json file to view the Grafana Dashboard's json file and check out the queries folders for screenshots of the queries in each graph.
 
 Use the docker-compose.yml file to easily stand up the entire Monitoring Stack.
 
